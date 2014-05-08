@@ -8,7 +8,7 @@ pyGCTInject
 Uses
 ========
 > Running an extracted ISO of Brawl using Dolphin emulator, with a codeset of your choice. This has been used by 
-> Dantarion to test file modifications for Project M for a while, and now it is out in the while!
+> Dantarion to test file modifications for Project M for a while, and now it is out in the WILD!
 
 How do I use this!
 ========
